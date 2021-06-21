@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Priya Bhatia
+### Hi there, I'm Priya Bhatia
 
 <!--
 **priya6971/priya6971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
