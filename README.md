@@ -12,7 +12,7 @@
 
 - 💬 All of my projects are available at https://github.com/priya6971
 
-- 🎯 Personal Website at https://www.priyajbhatia.com/
+- 🎯 Personal Website : https://www.priyajbhatia.com/
 
 - 📫 Reach me at priya.bhatia6971@gmail.com
 
