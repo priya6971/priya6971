@@ -8,7 +8,7 @@
 
 - ⚡ Mentor of Data Structure and Algorithms at iNeuron.ai.
 
-- 👯 Past one year work experience with Thales Company as Software Engineer.
+- 👯 One year work experience with Thales Company as Software Engineer.
 
 - 💬 All of my projects are available at https://github.com/priya6971
 
