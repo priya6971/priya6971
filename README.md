@@ -5,7 +5,7 @@
 -->
 
 - 🔭 Pursuing Masters in the domain of Artificial Intelligence at IIT Hyderabad.
-- ⚡ Taught Data Structure and Algorithms at iNeuron.ai.
+- ⚡ Mentor of Data Structure and Algorithms at iNeuron.ai.
 - 👯 Past one year work experience with Thales Company as Software Engineer.
 - 💬 All of my projects are available at https://github.com/priya6971
 - 🎯 Personal Website at https://www.priyajbhatia.com/
