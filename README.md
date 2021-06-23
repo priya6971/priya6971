@@ -6,7 +6,7 @@
 
 - 🔭 Pursuing Masters in Artificial Intelligence at IIT Hyderabad.
 
-- ⚡ Mentor of Data Structure and Algorithms at iNeuron.ai.
+- ⚡ Mentor of Data Structure and Algorithms at Ineuron Intelligence.
 
 - 👯 Worked as Software Engineer having one year of experience with Thales Group.
 
