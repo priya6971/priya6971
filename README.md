@@ -10,7 +10,7 @@
 
 👯 Worked as Software Engineer having one year of experience with Thales Group.
 
-🏆 Selected among the top 40 postgraduate students from premier institutes (IITs, IISC) for academic excellence in Reliance Foundation Scholarship in Artificial Intelligence and Computer Science for the year 2020-21.
+🏆 Selected among the top 37 postgraduate students from premier institutes (IITs, IISC) for academic excellence in Reliance Foundation Scholarship in Artificial Intelligence and Computer Science for the year 2020-21.
 
 Skills: Machine Learning | Deep Learning | Medical Image Processing | Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Information Retrieval | Natural Language Processing | Big Data | Hadoop | MapReduce | Sqoop | Apache Hive | Apache Spark with Scala | Linux
 
