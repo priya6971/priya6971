@@ -8,6 +8,8 @@
 
 ⚡ Mentor of Data Structure and Algorithms at Ineuron Intelligence.
 
+⚡ Mentor of Data Science at Geeksforgeeks.
+
 👯 Worked as Software Engineer having one year of experience with Thales Group.
 
 🏆 Selected among the top 40 postgraduate students from premier institutes (IITs, IISC) for academic excellence in Reliance Foundation Scholarship in Artificial Intelligence and Computer Science for the year 2020-21.
