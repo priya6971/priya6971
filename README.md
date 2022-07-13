@@ -1,16 +1,15 @@
 ### Hi there, Priya Bhatia
-#### Completed masters in artificial intelligence From IIT Hyderabad.
 #### About :
+
+🔭 I have completed my masters in Artificial Intelligence from IIT Hyderabad.
 
 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-⚡ Data Scientist at Ineuron Intelligence.
+⚡ Currently working as a Data Scientist at Ineuron Intelligence.
 
-⚡ Mentor of Data Structure and Algorithms at Ineuron Intelligence.
-
-⚡ Mentor of Data Science at Geeksforgeeks.
+⚡ Taught Data Structure Algorithms and Data Science.
 
 👯 Worked as Software Engineer having one year of experience with Thales Group.
 
