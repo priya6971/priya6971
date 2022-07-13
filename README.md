@@ -1,5 +1,6 @@
 ### Hi there, Priya Bhatia
-#### Masters in AI at IIT Hyderabad.
+#### Data Scientist
+#### Completed masters in AI From IIT Hyderabad.
 #### About :
 
 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
