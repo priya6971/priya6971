@@ -5,7 +5,7 @@
 
 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
-🔭 I make coding videos on Data Structure Algorithms and Data Science on my YouTube channel. 
+🔭 I enjoy creating content and videos, and my YouTube channel, "Priya Bhatia," is full of high-quality DSA and data science content.
     
     Check that out: https://www.youtube.com/@PriyaBhatia
 
