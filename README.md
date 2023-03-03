@@ -5,9 +5,9 @@
 
 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
-🔭 I enjoy creating content and videos, and my YouTube channel, "Priya Bhatia," is full of high-quality DSA and data science content.
+🔭 I enjoy creating content and videos, and my YouTube channel, "Priya Bhatia," is full of high-quality DSA and data science content. 
     
-    Check that out: https://www.youtube.com/@PriyaBhatia
+    https://www.youtube.com/@PriyaBhatia
 
 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
