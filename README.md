@@ -5,6 +5,10 @@
 
 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
+🔭 I make coding videos on Data Structure Algorithms and Data Science on my YouTube channel. 
+    
+    Check that out: https://www.youtube.com/@PriyaBhatia
+
 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
 ⚡ Currently working as a Data Scientist at Ineuron Intelligence.
