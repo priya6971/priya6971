@@ -25,5 +25,3 @@ Skills: Machine Learning | Deep Learning | Medical Image Processing | Data Struc
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/priya6971)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/priya-bhatia-5057a0116/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/priyabhatia6971/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/@PriyaBhatia)
 
 [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priya6971)](https://github.com/priya6971/github-readme-stats)
-
-
