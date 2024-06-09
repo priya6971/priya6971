@@ -1,19 +1,11 @@
 ### Hi there, Priya Bhatia
 #### About :
 
-🔭 I have completed my masters in Artificial Intelligence from IIT Hyderabad.
-
-🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
+⚡ As the founder of TechForAllWithPriya, my mission is to cultivate a vibrant community of learners passionate about Data Science and Data Structures & Algorithms (DSA). Leveraging my industry experience from companies like Ineuron and Thales, alongside a Master's degree in Artificial Intelligence from IIT Hyderabad, I bring a unique blend of practical insights and academic rigor to my teaching approach.
 
 🔭 I enjoy creating content and videos, and my YouTube channel, "Priya Bhatia," is full of high-quality DSA and data science content. 
     
-💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
-
-⚡ Currently working as a Data Scientist at Ineuron Intelligence.
-
-⚡ Taught Data Structure Algorithms and Data Science.
-
-👯 Worked as Software Engineer having one year of experience with Thales Group.
+💬 My motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
 🏆 Selected among the top 40 postgraduate students from premier institutes (IITs, IISC) for academic excellence in Reliance Foundation Scholarship in Artificial Intelligence and Computer Science for the year 2020-21.
 
